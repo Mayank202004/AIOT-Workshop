@@ -5,9 +5,9 @@ Welcome to **Session-0** of the AIOT Workshop series hosted by the IoTics Club! 
 ## IoTics Club Team
 
 Meet the core members who support and lead this AIOT workshop:
-- **Club Head**: Ayush Karapagele
+- **Club Head**: [Ayush Karapagele](https://github.com/chemayush)
 - **Co-Lead**: [Jjateen Gundesha](https://github.com/Jjateen)
-- **Core Members**: Akshit Gangwar, Ashwani Baghel, Ayush Ambatkar, Ketan Bajpai, Kushagra Mehta, Lakshit Khandelwal, [Mohit Talwar](https://github.com/mohittalwar23), [Nirbhay Raut](https://github.com/sorashiro3), Parth Singh, Yuvraj Singh, and Mann Manohar.
+- **Core Members**: Akshit Gangwar, Ashwani Baghel, [Ayush Ambatkar](https://github.com/afloatwont), Ketan Bajpai, Kushagra Mehta, [Lakshit Khandelwal](https://github.com/DegeneratorXx), [Mohit Talwar](https://github.com/mohittalwar23), [Nirbhay Raut](https://github.com/sorashiro3), [Parth Singh](https://github.com/CarnageOP10), Yuvraj Singh, and [Mann Manohar](https://github.com/MannManohar).
 
 ---
 
